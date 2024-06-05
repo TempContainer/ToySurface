@@ -4,11 +4,11 @@ A toy water surface simulation use naive sin wave and Gerstner wave.
 
 naive sin wave:
 
-![naive](image.png)
+<center><img src="image.png" alt="jpg name" width="50%"/></center>
 
 Gerstner Wave (ugly texture mapping make it like rag...):
 
-![Gerstner](image-1.png)
+<center><img src="image-1.png" alt="jpg name" width="50%"/></center>
 
 ## Usage
 
